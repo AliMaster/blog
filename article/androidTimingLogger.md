@@ -1,6 +1,7 @@
 ####打印程序时间的利器TimingLogger
 TimingLogger是安卓自带的一个打印时间的日志工具类
-官方文档地址[https://developer.android.com/reference/android/util/TimingLogger.html](https://developer.android.com/reference/android/util/TimingLogger.html)
+官方文档地址https://developer.android.com/reference/android/util/TimingLogger.html
+
 文档显示在api为1的时候就已经添加了
 
 官方介绍如下：
@@ -30,7 +31,8 @@ TimingLogger是安卓自带的一个打印时间的日志工具类
 > adb shell setprop log.tag.**xxx** VERBOSE
 
 原因是Timinglogger在初始化的时候，执行了一个reset方法，其中判断了当前tag的输出等级：
-```/**
+```java
+/**
      * Clear and initialize a TimingLogger object that will log using
      * the tag and label that was specified previously, either via
      * the constructor or a call to reset(tag, label). If the
