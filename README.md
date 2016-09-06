@@ -7,5 +7,6 @@
 * 5、[切换听筒和扬声器的正确姿势](/article/切换听筒和扬声器的正确姿势.md)
 * 6、[一些常见的异常和处理方式](/article/一些系统异常和解决方法.md)
 * 7、[为何openOptionsMenu 方法在ICS上无效?](/article/为何openOptionsMenu方法在ICS上无效.md)
+* 8、https://github.com/rubensousa/RecyclerViewSnap
 
 
