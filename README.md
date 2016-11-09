@@ -8,5 +8,6 @@
 * 6、[一些常见的异常和处理方式](/article/一些系统异常和解决方法.md)
 * 7、[为何openOptionsMenu 方法在ICS上无效?](/article/为何openOptionsMenu方法在ICS上无效.md)
 * 8、https://github.com/rubensousa/RecyclerViewSnap
+* 9、[Git操作小手册](/article/Git操作小手册.md)
 
 
